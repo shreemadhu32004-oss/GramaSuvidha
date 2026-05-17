@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ ಸುವಿಧಾ</string>
+    <string name="app_tagline">ಡಿಜಿಟಲ್ ಗ್ರಾಮ ಅಭಿವೃದ್ಧಿ ಪೋರ್ಟಲ್</string>
+    <string name="search_hint">ಯೋಜನೆ ಹುಡುಕಿ…</string>
+    <string name="no_projects">ಯಾವುದೇ ಯೋಜನೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="filter_all">ಎಲ್ಲಾ</string>
+    <string name="btn_feedback">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ</string>
+    <string name="btn_submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="btn_rate">ರೇಟ್ ಮಾಡಿ</string>
+    <string name="btn_report">ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="label_budget_allocated">ಮೀಸಲಾದ ಬಜೆಟ್</string>
+    <string name="label_budget_spent">ಖರ್ಚಾದ ಬಜೆಟ್</string>
+    <string name="label_contractor">ಗುತ್ತಿಗೆದಾರ</string>
+    <string name="label_before">ಮೊದಲು</string>
+    <string name="label_after">ನಂತರ</string>
+    <string name="label_updates">ಕೆಲಸದ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="label_description">ಯೋಜನೆ ವಿವರ</string>
+    <string name="label_rating">ಯೋಜನೆಯನ್ನು ರೇಟ್ ಮಾಡಿ:</string>
+    <string name="label_comment">ಕಾಮೆಂಟ್ (ಐಚ್ಛಿಕ):</string>
+    <string name="label_feedback_type">ಪ್ರತಿಕ್ರಿಯೆ ವಿಧ:</string>
+    <string name="feedback_submitted">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಲಾಗಿದೆ! ಧನ್ಯವಾದಗಳು</string>
+    <string name="error_rating_required">ದಯವಿಟ್ಟು ರೇಟಿಂಗ್ ನೀಡಿ</string>
+    <string name="stat_total">ಒಟ್ಟು</string>
+    <string name="stat_completed">ಪೂರ್ಣ</string>
+    <string name="stat_inprogress">ಪ್ರಗತಿಯಲ್ಲಿ</string>
+    <string name="lang_toggle">EN</string>
+    <string name="powered_by">ಕರ್ನಾಟಕ ಪಂಚಾಯತ್ ರಾಜ್</string>
+</resources>

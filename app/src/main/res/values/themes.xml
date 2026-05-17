@@ -1,0 +1,32 @@
+<resources>
+    <style name="Theme.GramaSuvidha" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_green_dark</item>
+        <item name="colorAccent">@color/accent_orange</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.GramaSuvidha.Splash" parent="Theme.GramaSuvidha">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@color/primary_green</item>
+    </style>
+
+    <style name="Theme.GramaSuvidha.WithActionBar" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_green_dark</item>
+        <item name="colorAccent">@color/accent_orange</item>
+        <item name="actionBarStyle">@style/GramaSuvidha.ActionBar</item>
+    </style>
+
+    <style name="GramaSuvidha.ActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="background">@color/primary_green</item>
+        <item name="titleTextStyle">@style/GramaSuvidha.ActionBar.Title</item>
+    </style>
+
+    <style name="GramaSuvidha.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

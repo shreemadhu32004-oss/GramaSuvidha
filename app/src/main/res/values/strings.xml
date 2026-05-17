@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Grama Suvidha</string>
+    <string name="app_tagline">Digital Village Development Portal</string>
+    <string name="search_hint">Search projects…</string>
+    <string name="no_projects">No projects found</string>
+    <string name="filter_all">All</string>
+    <string name="btn_feedback">Give Feedback</string>
+    <string name="btn_submit">Submit Feedback</string>
+    <string name="btn_rate">Rate the Project</string>
+    <string name="btn_report">Report an Issue</string>
+    <string name="label_budget_allocated">Budget Allocated</string>
+    <string name="label_budget_spent">Budget Spent</string>
+    <string name="label_contractor">Contractor</string>
+    <string name="label_before">Before</string>
+    <string name="label_after">After</string>
+    <string name="label_updates">Work Updates</string>
+    <string name="label_description">Project Description</string>
+    <string name="label_rating">Rate this Project:</string>
+    <string name="label_comment">Comment (Optional):</string>
+    <string name="label_feedback_type">Feedback Type:</string>
+    <string name="feedback_submitted">Feedback submitted! Thank you</string>
+    <string name="error_rating_required">Please provide a rating</string>
+    <string name="stat_total">Total</string>
+    <string name="stat_completed">Completed</string>
+    <string name="stat_inprogress">In Progress</string>
+    <string name="lang_toggle">ಕನ್ನಡ</string>
+    <string name="powered_by">Powered by Karnataka Panchayati Raj</string>
+</resources>
