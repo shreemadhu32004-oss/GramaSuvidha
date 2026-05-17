@@ -177,9 +177,9 @@ The app ships with 5 real-world-style projects:
 
 ## 👨‍💻 Student Info
 
-- **Name:** Rahul Awati
-- **Email:** rahulawati476@gmail.com
-- **USN:** 2BL22CS135
+- **Name:** Shree Madhu N
+- **Email:** shreemadhu32004@gmail.com
+- **USN:** 1VK22CS076
 - **University:** VTU
-- **Batch:** Igniters G5
+- **Batch:** 2022-2026
 - **Domain:** Android App Development using GenAI
