@@ -179,7 +179,7 @@ The app ships with 5 real-world-style projects:
 
 - **Name:** Shree Madhu N
 - **Email:** shreemadhu32004@gmail.com
-- **USN:** 1VK22CS076
+- **USN:** 1VK22CS068
 - **University:** VTU
 - **Batch:** 2022-2026
 - **Domain:** Android App Development using GenAI
